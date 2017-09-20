@@ -1,0 +1,83 @@
+
+            header{
+                clear: both;
+                width: 100%;
+                height: 100px;
+                background-color: blue;
+
+            }
+           header h1{
+                font-size: 60px;
+                letter-spacing: 30px;
+                color: white;
+                text-align: center;
+            }
+
+            nav{
+
+                width: 20%;
+                height: 800px;
+                float: left;
+                background-color: red;
+
+            }
+            nav h2{
+                text-align: center;
+                font-size: 30px;
+            }
+
+
+             ul{
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 30px;
+                list-style-type: none;
+                border: 1px solid gray;
+                padding: 0;
+
+
+            }
+                a{
+                width: auto;
+                text-decoration: none;
+                text-align: center;
+                color: white;
+                border: 1px solid white;
+                font-size: 18px;
+                display: block;
+                padding: 5px;
+                margin-right: 0;
+                position: relative;
+            }
+
+            main{
+
+                width: 80%;
+                height:800px;
+                float: left;
+                background-color: green;
+
+            }
+
+            main h1{
+                margin-top: 30px;
+                font-size: 50px;
+                text-align: center;
+                color: white;
+
+            }
+
+            section{
+              margin: 20px;
+              font-size: 25px;
+              color: white;
+            }
+            h3{
+              color:black;
+
+            }
+            p {
+              font-size: 25px;
+              margin: 80px;
+
+            }
