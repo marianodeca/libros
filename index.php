@@ -20,6 +20,7 @@
         <header>
 
             <h1>Biblioteca</h1>
+            <h2>Nueva version</h2>
 
         </header>
 
