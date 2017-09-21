@@ -20,7 +20,7 @@
         <header>
 
             <h1>Biblioteca</h1>
-            <h2>Nueva version</h2>
+            <h2>Nueva version en rama master</h2>
 
         </header>
 
@@ -49,6 +49,8 @@
         <main>
             <h1>Información sobre el libro</h1>
 
+            <p>Modificacion en la rama master</p>
+
             <section>
 
             <?php
@@ -59,11 +61,7 @@
                       echo "<h3>Titulo</h3>";
                       echo $libros[$seleccion]['titulo'];
                       echo "<h3>Autor</h3>";
-                      echo $libros[$seleccion]['autor'];
-                      echo "<h3>Genero</h3>";
-                      echo $libros[$seleccion]['genero'];
-                      echo "<h3>Resumen</h3>";
-                      echo $libros[$seleccion]['resumen'];
+
                     }
 
             ?>
