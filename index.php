@@ -19,8 +19,7 @@
 
         <header>
 
-            <h1>Biblioteca</h1>
-            <h2>Nueva version</h2>
+
 
         </header>
 
@@ -47,7 +46,7 @@
         </nav>
 
         <main>
-            <h1>Información sobre el libro</h1>
+            <h1>Archivo modificado para la rama otra</h1>
 
             <section>
 
