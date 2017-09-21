@@ -19,8 +19,12 @@
 
         <header>
 
+<<<<<<< HEAD
             <h1>Biblioteca</h1>
             <h2>Nueva version en rama master</h2>
+=======
+
+>>>>>>> otra
 
         </header>
 
@@ -47,7 +51,7 @@
         </nav>
 
         <main>
-            <h1>Información sobre el libro</h1>
+            <h1>Archivo modificado para la rama otra</h1>
 
             <p>Modificacion en la rama master</p>
 
